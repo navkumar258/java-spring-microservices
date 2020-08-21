@@ -1,4 +1,5 @@
 HELP.md
+README.md
 target/
 .mvn/
 !**/src/main/**/target/
