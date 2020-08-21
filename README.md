@@ -10,4 +10,4 @@ Java-Spring Cloud based event driven microservices based on [this](https://githu
   5. **notification-service:** Consumer of RabbitMQ queues for sending email as well as sms notifications on corresponding events 
   6. **store-service:** Used to create, retrieve and update store related info
   
-**Note:** This is a work-in-progress and only available for reference as a starting point for creating scalable and fault-tolerant micro-services using java and spring cloud integration
+**Note:** This is a work-in-progress and only available as a reference for creating highly scalable and fault-tolerant micro-services using java and spring cloud integration
