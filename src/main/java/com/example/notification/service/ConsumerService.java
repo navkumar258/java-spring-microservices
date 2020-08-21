@@ -24,7 +24,7 @@ public class ConsumerService {
 	public void receive(final User message) {
 		log.info("Received message " + message.toString());
 		try {
-			emailService.setMailDetailsForSend(message.toString(), "navkumar258@live.com");
+			emailService.setMailDetailsForSend(message.toString(), "abcd@mail.com");
 		} catch (MessagingException e) {
 			log.error("Error in sending user welcome mail - " + e.getMessage());
 		}
