@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "rabbitmq.user.exchange.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.user.exchange.name'"
+  },
+  {
+    "name": "rabbitmq.user.create.queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.user.create.queue.name'"
+  },
+  {
+    "name": "rabbitmq.user.created.routing.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.user.created.routing.key'"
+  },
+  {
+    "name": "rabbitmq.user.creation.routing.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.user.creation.routing.key'"
+  }
+]}
