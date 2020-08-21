@@ -1,6 +1,6 @@
 # java-spring-microservices
 
-Java-Spring Cloud based event driven microservices based on [this](https://github.com/sbruksha/event-driven-microservices-platform)
+Java-Spring Cloud based event driven microservices based on [this](https://github.com/sbruksha/event-driven-microservices-platform) repository and article: [vent driven microservices architecture using Spring Cloud](https://www.linkedin.com/pulse/event-driven-microservices-architecture-using-spring-cloud-bruksha/)
 
 ## Available services:
   1. **accounts-service:** User registration, authentication and management micro-service.Also, a producer for RabbitMQ user exchange
